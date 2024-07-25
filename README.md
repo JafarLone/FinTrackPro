@@ -1,6 +1,7 @@
 # Personal Finance Tracker
 
 **Personal Finance Tracker** is an intuitive web application designed to help you manage your finances efficiently. Whether you want to monitor your spending, set financial goals, or gain insights into your financial health, this application has you covered.
+![Personal Finance Tracker](path/to/your/image.png)
 
 ![Personal Finance Tracker](https://github.com/JafarLone/FinTrackPro/edit/main/README.md)
 
