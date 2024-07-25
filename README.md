@@ -32,4 +32,4 @@ Special thanks to:
 
 ## Contact
 
-For any questions or further information, feel free to reach out to [email protected].
+For any questions or further information, feel free to reach out to [jafarlone01@gmail.com].
